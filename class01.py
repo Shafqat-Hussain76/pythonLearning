@@ -1,1 +1,1 @@
-lst01 : list[str] = [1,2,3]
+lst01 : list[str] = [1,2,3,7]
